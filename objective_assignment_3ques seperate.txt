@@ -1,0 +1,5 @@
+Ans 58. animals/feline
+
+Ans 60. animals/ursine/bears.gif
+
+Ans 62.  ../ursine/bears.gif 
